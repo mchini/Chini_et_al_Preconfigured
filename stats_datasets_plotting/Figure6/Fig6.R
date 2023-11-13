@@ -1,3 +1,4 @@
+# stats for figure 6 and supp. figure 7
 
 Sys.setenv(LANG = "en")
 rm(list  =  ls())
