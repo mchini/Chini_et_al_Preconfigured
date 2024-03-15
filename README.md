@@ -1,5 +1,10 @@
-# Chini_et_al_Preconfigured
+# Chini_et_al_2024_preconfigured
 
-Work in progress!
+This repository contains code and data related to the Chini et al., 2024 manuscript. In particular:
+- code for the neural network simulations (with and without synaptic plasticity)
+- processed data and and code for plotting it, organized by figure
+- processed data and code for statistical analysis, organized by figure
 
-Code for neural network modeling and stats plus processed data related to Chini et al., 2023 is being uploaded here
+The raw data is available at this repository: https://gin.g-node.org/mchini/Chini_et_al_Preconfigured
+
+For any questions, please contact me at mattia.chini@zmnh.uni-hamburg.de
