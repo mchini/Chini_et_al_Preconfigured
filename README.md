@@ -9,3 +9,5 @@ In particular, you can find:
 The raw data is available at this repository: https://gin.g-node.org/mchini/Chini_et_al_Preconfigured
 
 For any questions, please contact me at mattia.chini@zmnh.uni-hamburg.de
+
+[![DOI](https://zenodo.org/badge/716604575.svg)](https://zenodo.org/doi/10.5281/zenodo.11091323)
